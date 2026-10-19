@@ -1,0 +1,14 @@
+{
+  "name": "Produtora EB",
+  "short_name": "Produtora EB",
+  "description": "Palco, som, luz, pista e painel de LED para eventos em Belém e em toda a região Norte.",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060608",
+  "theme_color": "#060608",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
